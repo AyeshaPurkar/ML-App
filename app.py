@@ -42,4 +42,4 @@ if st.button("Predict Wine Category"):
 
 # Reset Button
 if st.button("Reset"):
-    st.rerun()
+   st.rerun()
